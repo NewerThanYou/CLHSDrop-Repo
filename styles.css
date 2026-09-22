@@ -1,5 +1,5 @@
 body {
-      font-family: 'Inter';
+      font-family: 'Arial';
       font-style: normal;
       font-weight: 2001;
       margin: 0;
@@ -20,7 +20,7 @@ body {
       
       justify-content: center; /* Horizontal centering */
       align-items: center;     /* Vertical centering */
-      font-family: 'Inter';
+      font-family: 'Arial';
     }
 
 
@@ -43,12 +43,12 @@ body {
       border: 1px solid #ddd;
 
       background: rgba(255, 255, 255, 1);
-      font-family: 'Inter';
+      font-family: 'Arial';
     }
 
     small {
       color: #000000;
-      font-family: 'Inter';
+      font-family: 'Arial';
     }
 
     button {
@@ -60,7 +60,7 @@ body {
 
       background: rgba(255, 255, 255, 0.4);
 
-      font-family: 'Inter';
+      font-family: 'Arial';
       font-size: 3vh;
 
       border: none;
@@ -69,10 +69,10 @@ body {
 
     h3 {
       font-size: 2vh;
-      font-family: 'Inter';
+      font-family: 'Arial';
     }
 
     p {
       font-size: 2vh;
-      font-family: 'Inter';
+      font-family: 'Arial';
     }
